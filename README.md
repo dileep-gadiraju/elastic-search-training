@@ -32,8 +32,11 @@ Refer: https://www.elastic.co/guide/en/kibana/current/docker.html
 
 # Working with Netflix dataset
 
-1. Download cvs from https://www.kaggle.com/shivamb/netflix-shows
-2. 
+1. Download netflix_titles.csv from https://www.kaggle.com/shivamb/netflix-shows into ./sample-data/ folder.
+2. Navigae to kibana Dashboard Home page `http://localhost:5601/app/home#/`
+3. Choose Upload a file option link to upload `netflix_titles.csv` file and Import the data as Index 'netflix'.
+3. Navigate to kibana dashboard DevTools page. `http://localhost:5601/app/dev_tools#/console`
+4. Refer [BasicQueries.md](/BasicQueries.md) for basic elastic search queries and try in above Kibana DevTools.
 
 
 
