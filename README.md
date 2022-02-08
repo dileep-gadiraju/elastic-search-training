@@ -30,6 +30,11 @@ Refer: https://www.elastic.co/guide/en/kibana/current/docker.html
 1. Run `pip install -r requirements.txt` from the terminal.
 
 
+# Working with Netflix dataset
+
+1. Download cvs from https://www.kaggle.com/shivamb/netflix-shows
+2. 
+
 
 
 
