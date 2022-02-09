@@ -100,6 +100,54 @@ Refer https://www.elastic.co/guide/en/elasticsearch/reference/current/search-sea
                         }
                       }
     ```
-
-
-
+* Example of filter with `term` and `range` clauses. Filter The filter parameter indicates filter context. They will filter out documents which do not match, but they will not affect the score for matching documents :
+    ```
+      
+    ```
+* Example of Nested boolean queries. Below query searchs for docs with Title has King or Nazi  and Title not having "Peking" and "Jack" :
+    ```
+      GET netflix/_search
+      {
+        "_source": [
+          "title"
+        ],
+        "size": 20,
+        "min_score": 0.5,
+        "query": {
+          "bool": {
+            "must": [],
+            "filter": [],
+            "should": [
+              {
+                "match": {
+                  "title": "King"
+                }
+              },
+              {
+                "match": {
+                  "title": "Nazi"
+                }
+              }
+            ],
+            "must_not": [
+              {
+                "bool": {
+                  "should": [
+                    {
+                      "match": {
+                        "title": "Peking"
+                      }
+                    },
+                    {
+                      "match": {
+                        "title": "Jack"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    ```
