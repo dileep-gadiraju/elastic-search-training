@@ -1,3 +1,4 @@
 elasticsearch==7.17
 urllib3
 tqdm
+#elasticsearchquerygenerator
