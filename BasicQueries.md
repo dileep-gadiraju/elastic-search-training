@@ -187,3 +187,32 @@ GET /netflix/_search
         }
       }
     ```
+
+    * Create a new index with mappings and add documents.
+
+    ```
+    PUT /tarento-employees
+    {
+      "settings": {
+        "number_of_shards": 1
+      },
+      "mappings": {
+        "properties": {
+          "name": { "type": "text" },
+          "designation": { "type": "keyword" },
+          "contact": { "type": "keyword" },
+          "dob": {"type": "date", "format": "MM/dd/yyyy"}
+        }
+      }
+    }
+
+    POST /tarento-employees/_doc
+    {
+      "name": "Dinesh Karthik",
+      "designation": "Data Architect",
+      "contact": "91-9022330099",
+      "dob": "02/07/1985"
+    }
+
+    GET /tarento-employees/_search
+    ```

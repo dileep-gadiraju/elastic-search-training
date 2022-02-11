@@ -39,6 +39,7 @@ Refer: https://www.elastic.co/guide/en/kibana/current/docker.html
 4. Refer [BasicQueries.md](/BasicQueries.md) for basic elastic search queries and try in above Kibana DevTools.
 5. Refer [AggregationQueries.md](/AggregationQueries.md) for Aggregation queries.
 6. Refer [GeoQueries.md](/GeoQueries.md) for Geo Queries.
+7. Refer [Analyzers.md](/Analyzers.md)
 
 
 
