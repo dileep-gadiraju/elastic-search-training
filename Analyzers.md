@@ -13,8 +13,10 @@ Refer [Analyzers Documentation](https://www.elastic.co/guide/en/elasticsearch/re
 * One custom example with combination of above analyzers. 
   1. Try type as "keyword" without analyzer or text without analyzer for email field below.
   2. Normalizer to do case-insensitive search also included below.
+  3. Custom Analyzer to strip HTML tags
+  4. Stop Analyzer with custom stop words
 ```
-PUT /tarento-employees
+    PUT /tarento-employees
     {
       "settings": {
         "number_of_shards": 1,
@@ -24,7 +26,22 @@ PUT /tarento-employees
                 "type":      "pattern",
                 "pattern":   "\\W|_", 
                 "lowercase": true
-                }
+                },
+                "html_strip_analyzer": {
+                  "type": "custom", 
+                  "tokenizer": "standard",
+                  "char_filter": [
+                    "html_strip"
+                  ],
+                  "filter": [
+                    "lowercase",
+                    "asciifolding"
+                  ]
+                },
+                "stop_analyzer": {
+                  "type": "stop",
+                  "stopwords": ["like","etc"]
+                }         
             },
             "normalizer": {
               "my_normalizer": {
@@ -51,7 +68,8 @@ PUT /tarento-employees
           },
           "contact": { "type": "keyword" },
           "dob": {"type": "date", "format": "MM/dd/yyyy"},
-          "email": {"type": "text" , "analyzer": "email_analyzer"}
+          "email": {"type": "text" , "analyzer": "email_analyzer"},
+          "profile_summary": {"type": "text", "analyzer": "html_strip_analyzer"}
         }
       }
     }
@@ -62,27 +80,44 @@ PUT /tarento-employees
       "designation": "Data Architect",
       "contact": "91-9022330099",
       "dob": "02/07/1985",
-      "email": "dinesh_karthik-02@tarento.com"
+      "email": "dinesh_karthik-02@tarento.com",
+      "profile_summary": "Data Architect with experiance in <b>Azure Data Factory</b> , <b>Parquet</b>, <b>avro</b>."
     }
 
-
-GET /tarento-employees/_search
+    POST /tarento-employees/_analyze
     {
-      "query": {
-        "bool": {
-          "filter": [
-            {
-              "term": {
-                "email": "karthik"
-              }
-            },
-            {
-              "term": {
-                "designation.normalize": "data architect"
-              }
-            }            
-          ]
-        }
-      }
+      "analyzer": "html_strip_analyzer",
+      "text":"Data Architect with experiance in <b>Azure Data Factory</b> , <b>Parquet</b>, <b>avro</b>."
     }
+
+    POST /tarento-employees/_analyze
+    {
+      "analyzer": "stop_analyzer",
+      "text":"Cloud data services like IaaS,PaaS etc."
+    }
+
+    GET /tarento-employees/_search
+        {
+          "query": {
+            "bool": {
+              "filter": [
+                {
+                  "term": {
+                    "email": "karthik"
+                  }
+                },
+                {
+                  "term": {
+                    "designation.normalize": "data arcHitect"
+                  }
+                } ,
+                  {
+                    "term": {
+                      "profile_summary": "avro"
+                    }
+                  }                          
+              ]
+            }
+          }
+        }
 ```
