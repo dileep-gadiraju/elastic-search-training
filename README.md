@@ -19,16 +19,6 @@ Refer: https://www.elastic.co/guide/en/kibana/current/docker.html
 3. If container succesfully starts , you should be able to access http://localhost:5601/
 4. TODO : -v /Users/dileep.gadiraju/projects/elk-search-training/kibana.yml:/usr/share/kibana/config/kibana.yml
 
-# Create Virtual Environment
-
-1. Create Virtual Environment by runing `conda create --name elastic`
-2. Activate Virtual Environment by runing `conda activate elastic`. This should show (elastic) prefix on the terminal prompt.
-3. Run `conda install pip` to install pip on `elastic` Virtual Environment.
-
-# Prepare Python Virtual Environment with dependencies
-
-1. Run `pip install -r requirements.txt` from the terminal.
-
 
 # Working with Netflix dataset
 
@@ -40,7 +30,9 @@ Refer: https://www.elastic.co/guide/en/kibana/current/docker.html
 5. Refer [AggregationQueries.md](/AggregationQueries.md) for Aggregation queries.
 6. Refer [GeoQueries.md](/GeoQueries.md) for Geo Queries.
 7. Refer [Analyzers.md](/Analyzers.md)
+8. Refer [Routing.md](/Routing.md) for Routing.
 
 
-
-
+# Useful links:
+1. http://localhost:5601/app/management/data/index_management/indices
+2. 
