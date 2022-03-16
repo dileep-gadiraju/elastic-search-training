@@ -92,7 +92,8 @@ GET /_cat/shards/orders?h=index,shard,prirep,state,unassigned.reason
 
 Reindexing API examples below. Refer `https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-reindex.html` for more details.
 Creating `nyc-restaurants-reindexed` index with custom routing and invoking `_reindex` API from source index `nyc-restaurants`.
-Below queries also cover copying selective documents with ZIPCODE `match` query in source.
+Below queries also indexes selective documents with ZIPCODE `match` query in source.
+Also `max_docs` will limit number of documents from source to target index.
 
 
 ```
@@ -238,6 +239,7 @@ GET /_cat/shards/nyc-restaurants-reindexed
 
 POST _reindex
 {
+  "max_docs": 1145,
   "source": {
     "index": "nyc-restaurants",
     "slice": {
