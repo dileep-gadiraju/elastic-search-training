@@ -5,7 +5,7 @@ Refer https://www.elastic.co/guide/en/elasticsearch/reference/current/search-sea
 
 * Basic queries (Level 1):
   * `GET _cat/indices`
-  * `GET netflix/_search`  to search learn index
+  * `GET netflix/_search`  to search or learn index
   * `GET netflix/_doc/{doc _id}` to search specific document in a index. Example `GET netflix/_doc/zmUU2X4B7LKaS-lNQmJ3`
   * `GET /nyc-restaurants/_mapping/` to list/print mapping of given index `nyc-restaurants`
   * `GET /_all/_mapping` to list/print mapping of all indices.

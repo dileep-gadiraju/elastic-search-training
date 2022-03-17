@@ -93,3 +93,25 @@ GET /netflix-nyc-rest/_search
 
 ```
 
+CAT(Compact Aligned Text) APIs. Refer `https://www.elastic.co/guide/en/elasticsearch/reference/current/cat.html` for more details.
+ 
+```
+GET /_cat
+GET _cat/indices 
+GET /_cat/aliases
+GET /_cat/health
+GET /_cat/nodeattrs
+GET _cat/nodes?h=ip,port,heapPercent,name
+GET /_cat/indices?format=json&pretty
+GET _cat/templates?v=true&s=order:desc,index_patterns
+GET _cat/aliases
+GET /_cat/allocation?v=true&format=json&pretty
+```
+
+Mapping,setting,doc and analyze apis.
+
+```
+GET /_all/_mapping
+GET /<index name>/_settings
+POST /<index name>/_doc
+```

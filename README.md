@@ -26,11 +26,12 @@ Refer: https://www.elastic.co/guide/en/kibana/current/docker.html
 2. Navigae to kibana Dashboard Home page `http://localhost:5601/app/home#/`
 3. Choose Upload a file option link to upload `netflix_titles.csv` file and Import the data as Index 'netflix'.
 3. Navigate to kibana dashboard DevTools page. `http://localhost:5601/app/dev_tools#/console`
-4. Refer [BasicQueries.md](/BasicQueries.md) for basic elastic search queries and try in above Kibana DevTools.
-5. Refer [AggregationQueries.md](/AggregationQueries.md) for Aggregation queries.
-6. Refer [GeoQueries.md](/GeoQueries.md) for Geo Queries.
-7. Refer [Analyzers.md](/Analyzers.md)
-8. Refer [Routing.md](/Routing.md) for Routing.
+4. Refer [BasicQueries](/BasicQueries.md) for basic elastic search queries and try in above Kibana DevTools.
+5. Refer [AggregationQueries](/AggregationQueries.md) for Aggregation queries.
+6. Refer [GeoQueries](/GeoQueries.md) for Geo Queries.
+7. Refer [Analyzers](/Analyzers.md)
+8. Refer [Routing.](/Routing.md) for Routing.
+9. Refer [OtherAPIs](/OtherAPIs.md).
 
 
 # Useful links:
