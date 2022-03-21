@@ -1,5 +1,7 @@
 #  Other Rest APIs
 
+Most Elasticsearch APIs accept an alias in place of a data stream or index name. You can change the data streams or indices of an alias at any time. If you use aliases in your application's Elasticsearch requests, you can reindex data with no downtime or changes to your app's code.
+
 * Create _aliases for index and use it :
 ```
     POST /_aliases
@@ -97,14 +99,14 @@ CAT(Compact Aligned Text) APIs. Refer `https://www.elastic.co/guide/en/elasticse
  
 ```
 GET /_cat
-GET _cat/indices 
-GET /_cat/aliases
-GET /_cat/health
-GET /_cat/nodeattrs
-GET _cat/nodes?h=ip,port,heapPercent,name
+GET _cat/indices?format=json&pretty
+GET /_cat/aliases?format=json&pretty
+GET /_cat/health?format=json&pretty
+GET /_cat/nodeattrs?format=json&pretty
+GET _cat/nodes?h=ip,port,heapPercent,name&format=json&pretty
 GET /_cat/indices?format=json&pretty
 GET _cat/templates?v=true&s=order:desc,index_patterns
-GET _cat/aliases
+GET _cat/aliases?format=json&pretty
 GET /_cat/allocation?v=true&format=json&pretty
 ```
 

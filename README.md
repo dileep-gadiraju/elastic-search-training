@@ -36,4 +36,4 @@ Refer: https://www.elastic.co/guide/en/kibana/current/docker.html
 
 # Useful links:
 1. http://localhost:5601/app/management/data/index_management/indices
-2. 
+2. http://localhost:5601/app/dev_tools#/console
