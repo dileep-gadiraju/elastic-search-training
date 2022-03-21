@@ -97,3 +97,41 @@ GET /custom-logs-*/_search
   }
 }
 ```
+
+Step#5 : Try `_delete_by_query` API with criteria
+
+```
+POST /custom-logs-data-stream/_delete_by_query
+{
+  "query": {
+    "match": {
+      "message": "world1"
+    }
+  }
+}
+```
+
+Step#6 : Try deleting entire data stream and underlying indecies.
+
+```
+DELETE /_data_stream/custom-logs-data-stream
+```
+
+Step#7 : Try document delete using underlying index name and document id. You can find specific document to be deleted using below search API.
+
+```
+GET /custom-logs-data-stream/_search
+{
+  "query": {
+    "match": {
+      "message": "Hello world"
+    }
+  }
+}
+
+
+DELETE /custom-logs-data-stream/_doc/<_id>
+DELETE /custom-logs-data-stream/_doc/cblUrH8BTpoOnKxgxuSe
+```
+
+Step#7:  
