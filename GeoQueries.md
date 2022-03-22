@@ -64,4 +64,4 @@
         }
 ```
 
-* Explore other geo based searches - `geo_shape` , `geo_bounding_box` , `geo_distance_range` Refer (Geo Queries)[https://www.elastic.co/guide/en/elasticsearch/reference/current/geo-queries.html].
+* Explore other geo based searches using `geo_shape` , `geo_bounding_box` , `geo_distance_range` @ (Geo Queries)[https://www.elastic.co/guide/en/elasticsearch/reference/current/geo-queries.html].
