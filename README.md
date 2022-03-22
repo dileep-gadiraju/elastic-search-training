@@ -1,9 +1,8 @@
 # Software Pre-Requisites
-1. Python 3
-2. https://docs.conda.io/en/latest/
-3. Docker
+ElasticSearch , Kibana are deployed as Docker containers.
+1. Docker.
 
-# Install Elastic/ELK Search (as Docker Container)
+# Install Elastic Search (as Docker Container)
 Refer: https://www.elastic.co/guide/en/kibana/current/docker.html
 
 1. Run `docker network create elastic`  to create docker network. This is one time setup step.
@@ -17,7 +16,6 @@ Refer: https://www.elastic.co/guide/en/kibana/current/docker.html
 1. Run `docker pull docker.elastic.co/kibana/kibana:7.17.0` to pull kibana docker image.
 2. Run `docker run --name kib01-test --net elastic  -p 127.0.0.1:5601:5601 -e "ELASTICSEARCH_HOSTS=http://es01-test:9200" docker.elastic.co/kibana/kibana:7.17.0` to run kibana docker container. If container with same name already exists , Run `docker rm kib01-test` first.
 3. If container succesfully starts , you should be able to access http://localhost:5601/
-4. TODO : -v /Users/dileep.gadiraju/projects/elk-search-training/kibana.yml:/usr/share/kibana/config/kibana.yml
 
 
 # Working with Netflix dataset
