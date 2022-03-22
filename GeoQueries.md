@@ -1,13 +1,15 @@
 * Find nyc restaurants using `geo_distance` of 550 kms from location lat , long. Try changing distance to see the number of documents returned:
+
+
 ```
-        GET nyc-restaurants/_search
-        {
+      GET nyc-restaurants/_search
+      {
         "query": {
             "bool": {
             "filter": [
                 {
                 "geo_distance": {
-                    "distance":"550",
+                    "distance":"550km",
                     "location": {
                     "lat": 40.680684493111,
                     "lon": -73.842623752253
@@ -17,8 +19,10 @@
             ]
             }
         }
-        }
+      }
 ```
+
+
 *  Find nyc restaurants using `geo_polygon`:
 ```
         GET nyc-restaurants/_search
@@ -59,10 +63,5 @@
           }
         }
 ```
-* Find nyc restaurants using `geo_shape`: 
-```
-        GET nyc-restaurants/_search
 
-```
-
-* Explore other geo based searches - `geo_shape` , `geo_bounding_box` , `geo_distance_range`.
+* Explore other geo based searches - `geo_shape` , `geo_bounding_box` , `geo_distance_range` Refer (Geo Queries)[https://www.elastic.co/guide/en/elasticsearch/reference/current/geo-queries.html].
