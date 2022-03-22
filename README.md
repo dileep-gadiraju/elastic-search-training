@@ -21,7 +21,7 @@ Refer: https://www.elastic.co/guide/en/kibana/current/docker.html
 # Explore ElasticSearch with Netflix,nyc-restaurants and other mock datasets.
 
 1. Refer [netflix_titles.csv](/sample-data/netflix_titles.csv). Source : https://www.kaggle.com/shivamb/netflix-shows.
-2. Navigae to kibana Dashboard Home page `http://localhost:5601/app/home#/`
+2. Navigate to [Kibana Dashboard Home page](http://localhost:5601/app/home#/)
 3. Choose Upload a file option link to upload [netflix_titles.csv](/sample-data/netflix_titles.csv) file and Import the data as Index 'netflix'.
 3. Navigate to Kibana dashboard [DevTools]((http://localhost:5601/app/dev_tools#/console)) page.
 4. Also explore [nyc-restaurants.csv](/sample-data/nyc-restaurants.csv). 
