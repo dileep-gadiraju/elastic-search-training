@@ -10,7 +10,8 @@ Refer [Analyzers Documentation](https://www.elastic.co/guide/en/elasticsearch/re
 * [Fingerprint Analyzer](https://www.elastic.co/guide/en/elasticsearch/reference/7.16/analysis-fingerprint-analyzer.html)
 * [Custom Analyzers](https://www.elastic.co/guide/en/elasticsearch/reference/7.16/analysis-custom-analyzer.html)
 
-* One custom example with combination of above analyzers. 
+Custom example with combination of above analyzers. 
+
   1. Try type as "keyword" without analyzer or text without analyzer for email field below.
   2. Normalizer to do case-insensitive search also included below.
   3. Custom Analyzer to strip HTML tags
