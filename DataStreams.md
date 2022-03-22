@@ -134,4 +134,27 @@ DELETE /custom-logs-data-stream/_doc/<_id>
 DELETE /custom-logs-data-stream/_doc/cblUrH8BTpoOnKxgxuSe
 ```
 
-Step#7:  
+Step#7:  DataStream are not meant for updates , but in extreme cases use below APIs to fetch `_seq_no`,`_primary_term`,`_id` and use 
+`_doc` API for updating the doc. 
+
+
+```
+GET /custom-logs-data-stream/_search
+{
+  "seq_no_primary_term": true,
+  "query": {
+    "match": {
+      "message": "Hello world"
+    }
+  }
+}
+
+PUT custom-logs-data-stream/_doc/crlVrH8BTpoOnKxgBuTD?if_seq_no=1&if_primary_term=1
+{
+  "@timestamp": "2020-03-07T12:02:07.000Z",
+    "message": "Updated the document"
+}
+
+GET /custom-logs-data-stream/_search
+```
+

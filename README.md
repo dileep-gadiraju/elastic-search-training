@@ -32,6 +32,7 @@ Refer: https://www.elastic.co/guide/en/kibana/current/docker.html
 7. Refer [Analyzers](/Analyzers.md)
 8. Refer [Routing.](/Routing.md) for Routing.
 9. Refer [OtherAPIs](/OtherAPIs.md).
+10. Refer [DataStreams](/DataStreams.md).
 
 
 # Useful links:
