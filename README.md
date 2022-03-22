@@ -18,21 +18,26 @@ Refer: https://www.elastic.co/guide/en/kibana/current/docker.html
 3. If container succesfully starts , you should be able to access http://localhost:5601/
 
 
-# Working with Netflix dataset
+# Explore ElasticSearch with Netflix,nyc-restaurants and other mock datasets.
 
-1. Download netflix_titles.csv from https://www.kaggle.com/shivamb/netflix-shows into ./sample-data/ folder.
+1. Refer [netflix_titles.csv](/sample-data/netflix_titles.csv). Source : https://www.kaggle.com/shivamb/netflix-shows.
 2. Navigae to kibana Dashboard Home page `http://localhost:5601/app/home#/`
-3. Choose Upload a file option link to upload `netflix_titles.csv` file and Import the data as Index 'netflix'.
-3. Navigate to kibana dashboard DevTools page. `http://localhost:5601/app/dev_tools#/console`
-4. Refer [BasicQueries](/BasicQueries.md) for basic elastic search queries and try in above Kibana DevTools.
-5. Refer [AggregationQueries](/AggregationQueries.md) for Aggregation queries.
-6. Refer [GeoQueries](/GeoQueries.md) for Geo Queries.
-7. Refer [Analyzers](/Analyzers.md)
-8. Refer [Routing.](/Routing.md) for Routing.
-9. Refer [OtherAPIs](/OtherAPIs.md).
-10. Refer [DataStreams](/DataStreams.md).
+3. Choose Upload a file option link to upload [netflix_titles.csv](/sample-data/netflix_titles.csv) file and Import the data as Index 'netflix'.
+3. Navigate to kibana dashboard [DevTools]((http://localhost:5601/app/dev_tools#/console)) page.
+4. Also explore [nyc-restaurants.csv](/sample-data/nyc-restaurants.csv). 
+   This dataset is used in below hands on examples. Please import this data also as `nyc-restaurants` index. 
+5. After importing above datasets , open [Elastic Search Discover](http://localhost:5601/app/discover#) and select index you want to discover.
+   Right side of Search box , you can choose `Syntax options` between `KQL` and `Lucene` for search.
+6. Refer [BasicQueries](/BasicQueries.md) for basic elastic search queries and try in above Kibana DevTools.
+7. Refer [AggregationQueries](/AggregationQueries.md) for Aggregation queries.
+8. Refer [GeoQueries](/GeoQueries.md) for Geo Queries.
+9. Refer [Analyzers](/Analyzers.md)
+10. Refer [Routing.](/Routing.md) for Routing.
+11. Refer [OtherAPIs](/OtherAPIs.md).
+12. Refer [DataStreams](/DataStreams.md).
 
 
-# Useful links:
+# Runtime links:
 1. http://localhost:5601/app/management/data/index_management/indices
 2. http://localhost:5601/app/dev_tools#/console
+3. http://localhost:5601/app/discover#
