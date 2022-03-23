@@ -37,7 +37,7 @@ Refer: https://www.elastic.co/guide/en/kibana/current/docker.html
 12. Refer [DataStreams](/DataStreams.md).
 
 
-# Runtime links:
-1. http://localhost:5601/app/management/data/index_management/indices
-2. http://localhost:5601/app/dev_tools#/console
-3. http://localhost:5601/app/discover#
+# Kibana Runtime Console Links:
+1. [Index Management Console](http://localhost:5601/app/management/data/index_management/indices)
+2. [Dev Tools Console](http://localhost:5601/app/dev_tools#/console)
+3. [Analytics Discover](http://localhost:5601/app/discover#)
