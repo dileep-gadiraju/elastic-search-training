@@ -9,7 +9,7 @@
             "filter": [
                 {
                 "geo_distance": {
-                    "distance":"550km",
+                    "distance":"50",
                     "location": {
                     "lat": 40.680684493111,
                     "lon": -73.842623752253
