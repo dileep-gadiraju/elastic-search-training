@@ -81,7 +81,7 @@ GET /orders/_search?routing=560062
 
 
 
-APIs to cat Shards/partitions. Refer `https://www.elastic.co/guide/en/elasticsearch/reference/current/cat-shards.html` for more details.
+APIs to cat Shards/partitions.
 
 
 ```
@@ -90,7 +90,7 @@ GET /_cat/shards/orders
 GET /_cat/shards/orders?h=index,shard,prirep,state,unassigned.reason
 ```
 
-Reindexing API examples below. Refer `https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-reindex.html` for more details.
+Reindexing API examples below. Refer [Reindex doc](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-reindex.html) for more details.
 Creating `nyc-restaurants-reindexed` index with custom routing and invoking `_reindex` API from source index `nyc-restaurants`.
 Below queries also indexes selective documents with ZIPCODE `match` query in source.
 Also `max_docs` will limit number of documents from source to target index.
