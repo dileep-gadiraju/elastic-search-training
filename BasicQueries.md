@@ -226,6 +226,8 @@ PUT /tarento-employees
     }
   }
 }
+
+
 POST /tarento-employees/_doc
 {
   "name": "Dinesh Karthik",
@@ -233,5 +235,18 @@ POST /tarento-employees/_doc
   "contact": "91-9022330099",
   "dob": "02/07/1985"
 }
+
 GET /tarento-employees/_search
+```
+
+* Update docs using `_update` API
+
+```
+POST tarento-employees/_update/<_id>
+{
+  "doc":{
+    "contact": "91-9022330096"
+  }
+}
+
 ```
