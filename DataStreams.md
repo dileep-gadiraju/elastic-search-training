@@ -1,4 +1,4 @@
-Refer `https://www.elastic.co/guide/en/elasticsearch/reference/current/data-streams.html`
+Refer [Data Stream Doc](https://www.elastic.co/guide/en/elasticsearch/reference/current/data-streams.html)
 
 
 APIs related to data streams:
