@@ -1,4 +1,4 @@
-* Find nyc restaurants using `geo_distance` of 550 kms from location lat , long. Try changing distance to see the number of documents returned:
+* Find nyc restaurants using `geo_distance` of 50 miles from location lat , long. Try changing distance to see the number of documents returned:
 
 
 ```
