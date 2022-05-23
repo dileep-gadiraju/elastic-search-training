@@ -1,0 +1,190 @@
+{
+    "Items": [
+        {
+            "Name": "TVOC-2-E1",
+            "Url": "https://new.abb.com/products/1SFA664002R1001/tvoc-2-e1",
+            "Data": {
+                "general": {
+                    "Extended Product Type:": "TVOC-2-E1",
+                    "Product ID:": "1SFA664002R1001",
+                    "EAN:": "7320500382196",
+                    "Catalog Description:": "TVOC-2-E1 Extension",
+                    "Long Description:": "The extension unit TVOC-2-E1 can be assembled on the TVOC-2 main unit to increase the number of detector inputs. There are 10 detector inputs per extension unit E1 and up to 2 extension units can be added to the main unit, creating 30 detector inputs in total."
+                },
+                "ordering": {
+                    "E-Number (Finland):": "2712001",
+                    "E-Number (Norway):": "4116452",
+                    "E-Number (Sweden):": "2801707",
+                    "EAN:": "7320500382196",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Customs Tariff Number:": "85389099"
+                },
+                "container-information": {
+                    "Package Level 1 Units:": "1 piece",
+                    "Package Level 1 Width:": "85 mm",
+                    "Package Level 1 Height:": "55 mm",
+                    "Package Level 1 Depth / Length:": "275 mm",
+                    "Package Level 1 Gross Weight:": "0.194 kg",
+                    "Package Level 1 EAN:": "7320500382196"
+                },
+                "dimensions": {
+                    "Product Net Width:": "230 mm",
+                    "Product Net Height:": "50 mm",
+                    "Product Net Depth / Length:": "25 mm",
+                    "Product Net Weight:": "0.114 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Additional Information:": "ARC MONITOR TVOC-2 EXTENSION",
+                    "Mounting Type:": "Mounted on main unit",
+                    "Number of Auxiliary Contacts CO (SPDT):": "0",
+                    "Number of Auxiliary Contacts NC:": "0",
+                    "Number of Auxiliary Contacts NO:": "0",
+                    "Power Loss:": "1 W",
+                    "Product Main Type:": "TVOC-2",
+                    "Product Name:": "Extension",
+                    "RoHS Date:": "1009  1",
+                    "Suitable For:": "TVOC-2"
+                },
+                "classifications": {
+                    "ETIM 4:": "EC001444 - Insulation and earth fault monitoring relay",
+                    "ETIM 5:": "EC001444 - Insulation and earth fault monitoring relay",
+                    "ETIM 6:": "EC002911 - Arc detection system",
+                    "ETIM 7:": "EC002911 - Arc detection system",
+                    "Object Classification Code:": "B",
+                    "UNSPSC:": "39122331",
+                    "WEEE Category:": "5. Small Equipment (No External Dimension More Than 50 cm)",
+                    "eClass:": "V11.0 : 27142214"
+                },
+                "environmental": {
+                    "Ambient Air Temperature:": "Operation -25 ... +55 \u00b0CStorage -25 ... +55 \u00b0C",
+                    "RoHS Status:": "Following EU Directive 2011/65/EU and Amendment 2015/863 July 22, 2019"
+                }
+            }
+        },
+        {
+            "Name": "ABB TVOC-2-E1",
+            "Url": "https://new.abb.com/products/ABB1SFA664002R1001",
+            "Data": {
+                "general": {
+                    "Extended Product Type:": "TVOC-2-E1",
+                    "Product ID:": "1SFA664002R1001",
+                    "EAN:": "7320500382196",
+                    "Catalog Description:": "TVOC-2-E1 Extension",
+                    "Long Description:": "The extension unit TVOC-2-E1 can be assembled on the TVOC-2 main unit to increase the number of detector inputs. There are 10 detector inputs per extension unit E1 and up to 2 extension units can be added to the main unit, creating 30 detector inputs in total."
+                },
+                "ordering": {
+                    "E-Number (Finland):": "2712001",
+                    "E-Number (Norway):": "4116452",
+                    "E-Number (Sweden):": "2801707",
+                    "EAN:": "7320500382196",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Customs Tariff Number:": "85389099"
+                },
+                "container-information": {
+                    "Package Level 1 Units:": "1 piece",
+                    "Package Level 1 Width:": "85 mm",
+                    "Package Level 1 Height:": "55 mm",
+                    "Package Level 1 Depth / Length:": "275 mm",
+                    "Package Level 1 Gross Weight:": "0.194 kg",
+                    "Package Level 1 EAN:": "7320500382196"
+                },
+                "dimensions": {
+                    "Product Net Width:": "230 mm",
+                    "Product Net Height:": "50 mm",
+                    "Product Net Depth / Length:": "25 mm",
+                    "Product Net Weight:": "0.114 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Additional Information:": "ARC MONITOR TVOC-2 EXTENSION",
+                    "Mounting Type:": "Mounted on main unit",
+                    "Number of Auxiliary Contacts CO (SPDT):": "0",
+                    "Number of Auxiliary Contacts NC:": "0",
+                    "Number of Auxiliary Contacts NO:": "0",
+                    "Power Loss:": "1 W",
+                    "Product Main Type:": "TVOC-2",
+                    "Product Name:": "Extension",
+                    "RoHS Date:": "1009  1",
+                    "Suitable For:": "TVOC-2"
+                },
+                "classifications": {
+                    "ETIM 4:": "EC001444 - Insulation and earth fault monitoring relay",
+                    "ETIM 5:": "EC001444 - Insulation and earth fault monitoring relay",
+                    "ETIM 6:": "EC002911 - Arc detection system",
+                    "ETIM 7:": "EC002911 - Arc detection system",
+                    "Object Classification Code:": "B",
+                    "UNSPSC:": "39122331",
+                    "WEEE Category:": "5. Small Equipment (No External Dimension More Than 50 cm)",
+                    "eClass:": "V11.0 : 27142214"
+                },
+                "environmental": {
+                    "Ambient Air Temperature:": "Operation -25 ... +55 \u00b0CStorage -25 ... +55 \u00b0C",
+                    "RoHS Status:": "Following EU Directive 2011/65/EU and Amendment 2015/863 July 22, 2019"
+                }
+            }
+        },
+        {
+            "Name": "ABB TVOC-2-E1",
+            "Url": "https://new.abb.com/products/1SFA664002R1001/tvoc-2-e1-extension",
+            "Data": {
+                "general": {
+                    "Extended Product Type:": "TVOC-2-E1",
+                    "Product ID:": "1SFA664002R1001",
+                    "EAN:": "7320500382196",
+                    "Catalog Description:": "TVOC-2-E1 Extension",
+                    "Long Description:": "The extension unit TVOC-2-E1 can be assembled on the TVOC-2 main unit to increase the number of detector inputs. There are 10 detector inputs per extension unit E1 and up to 2 extension units can be added to the main unit, creating 30 detector inputs in total."
+                },
+                "ordering": {
+                    "E-Number (Finland):": "2712001",
+                    "E-Number (Norway):": "4116452",
+                    "E-Number (Sweden):": "2801707",
+                    "EAN:": "7320500382196",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Customs Tariff Number:": "85389099"
+                },
+                "container-information": {
+                    "Package Level 1 Units:": "1 piece",
+                    "Package Level 1 Width:": "85 mm",
+                    "Package Level 1 Height:": "55 mm",
+                    "Package Level 1 Depth / Length:": "275 mm",
+                    "Package Level 1 Gross Weight:": "0.194 kg",
+                    "Package Level 1 EAN:": "7320500382196"
+                },
+                "dimensions": {
+                    "Product Net Width:": "230 mm",
+                    "Product Net Height:": "50 mm",
+                    "Product Net Depth / Length:": "25 mm",
+                    "Product Net Weight:": "0.114 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Additional Information:": "ARC MONITOR TVOC-2 EXTENSION",
+                    "Mounting Type:": "Mounted on main unit",
+                    "Number of Auxiliary Contacts CO (SPDT):": "0",
+                    "Number of Auxiliary Contacts NC:": "0",
+                    "Number of Auxiliary Contacts NO:": "0",
+                    "Power Loss:": "1 W",
+                    "Product Main Type:": "TVOC-2",
+                    "Product Name:": "Extension",
+                    "RoHS Date:": "1009  1",
+                    "Suitable For:": "TVOC-2"
+                },
+                "classifications": {
+                    "ETIM 4:": "EC001444 - Insulation and earth fault monitoring relay",
+                    "ETIM 5:": "EC001444 - Insulation and earth fault monitoring relay",
+                    "ETIM 6:": "EC002911 - Arc detection system",
+                    "ETIM 7:": "EC002911 - Arc detection system",
+                    "Object Classification Code:": "B",
+                    "UNSPSC:": "39122331",
+                    "WEEE Category:": "5. Small Equipment (No External Dimension More Than 50 cm)",
+                    "eClass:": "V11.0 : 27142214"
+                },
+                "environmental": {
+                    "Ambient Air Temperature:": "Operation -25 ... +55 \u00b0CStorage -25 ... +55 \u00b0C",
+                    "RoHS Status:": "Following EU Directive 2011/65/EU and Amendment 2015/863 July 22, 2019"
+                }
+            }
+        }
+    ]
+}

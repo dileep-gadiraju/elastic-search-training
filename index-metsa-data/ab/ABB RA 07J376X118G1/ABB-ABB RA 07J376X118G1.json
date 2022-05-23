@@ -1,0 +1,121 @@
+{
+    "Items": [
+        {
+            "Name": "ABB RA 07J376X118G1",
+            "Url": "https://new.abb.com/products/ABB.BALDOR7BRA065085",
+            "Data": {
+                "general": {
+                    "Global Commercial Alias:": "RA065085",
+                    "Product ID:": "7BRA065085",
+                    "ABB Type Designation:": "RA 07J376X118G1",
+                    "Catalog Description:": "RA 07J376X118G1"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "RA 07J376X118G1",
+                    "Country of Origin:": "United States (US)",
+                    "Customs Tariff Number:": "85030099",
+                    "Global Commercial Alias:": "RA065085",
+                    "Gross Weight:": "34.731 kg",
+                    "Invoice Description:": "RA 07J376X118G1",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Product Name:": "General Purpose",
+                    "Product Net Height:": "0 cm",
+                    "Product Net Length:": "0 cm",
+                    "Product Net Weight:": "34.731 kg",
+                    "Product Net Width:": "0 cm",
+                    "Product Type:": "Undefined",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "Stocked At (Warehouses):": "ChinaAlabama, United StatesAlaska, United States",
+                    "UNSPSC:": "26101400"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "ABB RA 07J376X118G1",
+            "Url": "https://new.abb.com/products/7BRA065085/ra-07j376x118g1",
+            "Data": {
+                "general": {
+                    "Global Commercial Alias:": "RA065085",
+                    "Product ID:": "7BRA065085",
+                    "ABB Type Designation:": "RA 07J376X118G1",
+                    "Catalog Description:": "RA 07J376X118G1"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "RA 07J376X118G1",
+                    "Country of Origin:": "United States (US)",
+                    "Customs Tariff Number:": "85030099",
+                    "Global Commercial Alias:": "RA065085",
+                    "Gross Weight:": "34.731 kg",
+                    "Invoice Description:": "RA 07J376X118G1",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Product Name:": "General Purpose",
+                    "Product Net Height:": "0 cm",
+                    "Product Net Length:": "0 cm",
+                    "Product Net Weight:": "34.731 kg",
+                    "Product Net Width:": "0 cm",
+                    "Product Type:": "Undefined",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "Stocked At (Warehouses):": "ChinaAlabama, United StatesAlaska, United States",
+                    "UNSPSC:": "26101400"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "RA065085",
+            "Url": "https://new.abb.com/products/7BRA065085/ra065085",
+            "Data": {
+                "general": {
+                    "Global Commercial Alias:": "RA065085",
+                    "Product ID:": "7BRA065085",
+                    "ABB Type Designation:": "RA 07J376X118G1",
+                    "Catalog Description:": "RA 07J376X118G1"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "RA 07J376X118G1",
+                    "Country of Origin:": "United States (US)",
+                    "Customs Tariff Number:": "85030099",
+                    "Global Commercial Alias:": "RA065085",
+                    "Gross Weight:": "34.731 kg",
+                    "Invoice Description:": "RA 07J376X118G1",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Product Name:": "General Purpose",
+                    "Product Net Height:": "0 cm",
+                    "Product Net Length:": "0 cm",
+                    "Product Net Weight:": "34.731 kg",
+                    "Product Net Width:": "0 cm",
+                    "Product Type:": "Undefined",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "Stocked At (Warehouses):": "ChinaAlabama, United StatesAlaska, United States",
+                    "UNSPSC:": "26101400"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        }
+    ]
+}

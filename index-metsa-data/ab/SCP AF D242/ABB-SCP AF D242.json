@@ -1,0 +1,127 @@
+{
+    "Items": [
+        {
+            "Name": "ABB AF D242 A10: SCP Service Ctrl Panel",
+            "Url": "https://new.abb.com/products/ABB3BHE023126R0010",
+            "Data": {
+                "general": {
+                    "Product ID:": "3BHE023126R0010",
+                    "ABB Type Designation:": "-",
+                    "Catalog Description:": "AF D242 A10: SCP Service Ctrl Panel",
+                    "Long Description:": "AF D242 A10: SCP Service Ctrl Panel"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "-",
+                    "Country of Origin:": "Switzerland (CH)China (CN)",
+                    "Customs Tariff Number:": "85371092",
+                    "Gross Weight:": "0 kg",
+                    "Invoice Description:": "AF D242 A10: SCP Service Ctrl Panel",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Package Level 1 Gross Weight:": "0 kg",
+                    "Package Level 1 Units:": "1 piece",
+                    "Part Type:": "New",
+                    "Product Name:": "-",
+                    "Product Net Height:": "70 mm",
+                    "Product Net Length:": "29 mm",
+                    "Product Net Weight:": "0.1 kg",
+                    "Product Net Width:": "13 mm",
+                    "Product Type:": "Undefined",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "Stocked At (Warehouses):": "Baden, Switzerland",
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "ABB AF D242 A10: SCP Service Ctrl Panel",
+            "Url": "https://new.abb.com/products/3BHE023126R0010/af-d242-a10-scp-service-ctrl-panel",
+            "Data": {
+                "general": {
+                    "Product ID:": "3BHE023126R0010",
+                    "ABB Type Designation:": "-",
+                    "Catalog Description:": "AF D242 A10: SCP Service Ctrl Panel",
+                    "Long Description:": "AF D242 A10: SCP Service Ctrl Panel"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "-",
+                    "Country of Origin:": "Switzerland (CH)China (CN)",
+                    "Customs Tariff Number:": "85371092",
+                    "Gross Weight:": "0 kg",
+                    "Invoice Description:": "AF D242 A10: SCP Service Ctrl Panel",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Package Level 1 Gross Weight:": "0 kg",
+                    "Package Level 1 Units:": "1 piece",
+                    "Part Type:": "New",
+                    "Product Name:": "-",
+                    "Product Net Height:": "70 mm",
+                    "Product Net Length:": "29 mm",
+                    "Product Net Weight:": "0.1 kg",
+                    "Product Net Width:": "13 mm",
+                    "Product Type:": "Undefined",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "Stocked At (Warehouses):": "Baden, Switzerland",
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "3BHE023126R0010",
+            "Url": "https://new.abb.com/products/3BHE023126R0010/3bhe023126r0010",
+            "Data": {
+                "general": {
+                    "Product ID:": "3BHE023126R0010",
+                    "ABB Type Designation:": "-",
+                    "Catalog Description:": "AF D242 A10: SCP Service Ctrl Panel",
+                    "Long Description:": "AF D242 A10: SCP Service Ctrl Panel"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "-",
+                    "Country of Origin:": "Switzerland (CH)China (CN)",
+                    "Customs Tariff Number:": "85371092",
+                    "Gross Weight:": "0 kg",
+                    "Invoice Description:": "AF D242 A10: SCP Service Ctrl Panel",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Package Level 1 Gross Weight:": "0 kg",
+                    "Package Level 1 Units:": "1 piece",
+                    "Part Type:": "New",
+                    "Product Name:": "-",
+                    "Product Net Height:": "70 mm",
+                    "Product Net Length:": "29 mm",
+                    "Product Net Weight:": "0.1 kg",
+                    "Product Net Width:": "13 mm",
+                    "Product Type:": "Undefined",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "Stocked At (Warehouses):": "Baden, Switzerland",
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        }
+    ]
+}

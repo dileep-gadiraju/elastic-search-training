@@ -1,0 +1,759 @@
+{
+    "Items": [
+        {
+            "Name": "ABB AI620 Analog Input 16Ch",
+            "Url": "https://new.abb.com/products/ABB.PARTS.SELOGTES3BHT300005R1",
+            "Data": {
+                "general": {
+                    "Product ID:": "TES3BHT300005R1",
+                    "ABB Type Designation:": "AI620",
+                    "Catalog Description:": "AI620 Analog Input 16Ch"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "1.28 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "INPUT 16CH",
+                    "Technical Information:": "Test and Inspection.Notice! Repair not includedPossible repair to be ordered separately",
+                    "Product Type:": "I-O_Module"
+                },
+                "classifications": {},
+                "environmental": {
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        },
+        {
+            "Name": "ABB AI620 Analog Input 16Ch 12 bit",
+            "Url": "https://new.abb.com/products/ABB3BHT300005R1",
+            "Data": {
+                "general": {
+                    "Product ID:": "3BHT300005R1",
+                    "ABB Type Designation:": "AI620",
+                    "Catalog Description:": "AI620 Analog Input 16Ch 12 bit",
+                    "Long Description:": "AI620 Analog Input 16Ch"
+                },
+                "ordering": {
+                    "HS Code:": "853890-- Parts suitable for use solely or principally with the apparatus of heading 85.35, 85.36 or 85.37.- Other",
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Depth / Length:": "252 mm",
+                    "Product Net Height:": "273 mm",
+                    "Product Net Width:": "40 mm",
+                    "Product Net Weight:": "1.28 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "AI620 Analog Input 16Ch",
+                    "Product Type:": "I-O_Module"
+                },
+                "classifications": {},
+                "environmental": {
+                    "RoHS Status:": "Following EU Directive 2011/65/EU",
+                    "WEEE Category:": "5. Small Equipment (No External Dimension More Than 50 cm)",
+                    "Number of Batteries:": "0"
+                }
+            }
+        },
+        {
+            "Name": "ABB AI620 Analog Input 16Ch",
+            "Url": "https://new.abb.com/products/ABB.PARTS.SELOGREF3BHT300005R1",
+            "Data": {
+                "general": {
+                    "Product ID:": "REF3BHT300005R1",
+                    "ABB Type Designation:": "AI620 Refurbished",
+                    "Catalog Description:": "AI620 Analog Input 16Ch"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "AI620 Refurbished",
+                    "Country of Origin:": "Sweden (SE)",
+                    "Customs Tariff Number:": "85389091",
+                    "Gross Weight:": "1.28 kg",
+                    "Invoice Description:": "AI620 Analog Input 16Ch",
+                    "Made To Order:": "No",
+                    "Medium Description:": "Analog Input 16Ch",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Package Level 1 Gross Weight:": "1.28 kg",
+                    "Package Level 1 Units:": "1 piece",
+                    "Part Type:": "Refurbished",
+                    "Product Name:": "I-O Module",
+                    "Product Net Weight:": "1.28 kg",
+                    "Product Type:": "I-O_Module",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "Stocked At (Warehouses):": "Malm\u00f6, Sweden",
+                    "Technical Information:": "AI620 Refurbished Analog Input 16Ch",
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "ABB AI620 Analog Input 16Ch",
+            "Url": "https://new.abb.com/products/ABB.PARTS.SELOGEXC3BHT300005R1",
+            "Data": {
+                "general": {
+                    "Product ID:": "EXC3BHT300005R1",
+                    "ABB Type Designation:": "AI620 Exchange",
+                    "Catalog Description:": "AI620 Analog Input Unit 16Ch"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "1.28 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "Analog Input 16Ch, Exchange",
+                    "Technical Information:": "AI620 Analog Input 16Ch ExchangeNote! The replaced part with RMA to be returnedaccording to T&C otherwise an extra charge will be required.",
+                    "Product Type:": "I-O_Module"
+                },
+                "classifications": {},
+                "environmental": {
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        },
+        {
+            "Name": "ABB AI620 Analog Input 16Ch",
+            "Url": "https://new.abb.com/products/ABB.PARTS.SELOGREP3BHT300005R1",
+            "Data": {
+                "general": {
+                    "Product ID:": "REP3BHT300005R1",
+                    "ABB Type Designation:": "AI620",
+                    "Catalog Description:": "AI620 Analog Input 16Ch"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Height:": "273 mm",
+                    "Product Net Width:": "40 mm",
+                    "Product Net Weight:": "1.28 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "INPUT 16CH",
+                    "Technical Information:": "REPAIR OF AI620",
+                    "Product Type:": "I-O_Module"
+                },
+                "classifications": {},
+                "environmental": {
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        },
+        {
+            "Name": "ABB AI620 ANALOG INPUT 16CH",
+            "Url": "https://new.abb.com/products/ABB.PARTS.USINYU3BHT300005R1",
+            "Data": {
+                "general": {
+                    "Product ID:": "U3BHT300005R1",
+                    "ABB Type Designation:": "AI620 ANALOG INPUT 16CH",
+                    "Catalog Description:": "AI620 ANALOG INPUT 16CH",
+                    "Long Description:": "AI620 ANALOG INPUT 16CH"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85352100"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "AI620 ANALOG INPUT 16CH",
+                    "Product Type:": "UADVN"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "ABB AI620 ANALOG INPUT CARD",
+            "Url": "https://new.abb.com/products/ABB.PARTS.USINYY3BHT300005R1",
+            "Data": {
+                "general": {
+                    "Product ID:": "Y3BHT300005R1",
+                    "ABB Type Designation:": "AI620 ANALOG INPUT CARD",
+                    "Catalog Description:": "AI620 ANALOG INPUT CARD",
+                    "Long Description:": "AI620 ANALOG INPUT CARD"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85352100"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "AI620 ANALOG INPUT CARD"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "ABB AI620 Analog Input 16Ch",
+            "Url": "https://new.abb.com/products/EXC3BHT300005R1/ai620-analog-input-16ch",
+            "Data": {
+                "general": {
+                    "Product ID:": "EXC3BHT300005R1",
+                    "ABB Type Designation:": "AI620 Exchange",
+                    "Catalog Description:": "AI620 Analog Input Unit 16Ch"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "1.28 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "Analog Input 16Ch, Exchange",
+                    "Technical Information:": "AI620 Analog Input 16Ch ExchangeNote! The replaced part with RMA to be returnedaccording to T&C otherwise an extra charge will be required.",
+                    "Product Type:": "I-O_Module"
+                },
+                "classifications": {},
+                "environmental": {
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        },
+        {
+            "Name": "ABB AI620 ANALOG INPUT CARD",
+            "Url": "https://new.abb.com/products/Y3BHT300005R1/ai620-analog-input-card",
+            "Data": {
+                "general": {
+                    "Product ID:": "Y3BHT300005R1",
+                    "ABB Type Designation:": "AI620 ANALOG INPUT CARD",
+                    "Catalog Description:": "AI620 ANALOG INPUT CARD",
+                    "Long Description:": "AI620 ANALOG INPUT CARD"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85352100"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "AI620 ANALOG INPUT CARD"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "ABB AI620 ANALOG INPUT 16CH",
+            "Url": "https://new.abb.com/products/U3BHT300005R1/ai620-analog-input-16ch",
+            "Data": {
+                "general": {
+                    "Product ID:": "U3BHT300005R1",
+                    "ABB Type Designation:": "AI620 ANALOG INPUT 16CH",
+                    "Catalog Description:": "AI620 ANALOG INPUT 16CH",
+                    "Long Description:": "AI620 ANALOG INPUT 16CH"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85352100"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "AI620 ANALOG INPUT 16CH",
+                    "Product Type:": "UADVN"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "ABB AI620 Analog Input 16Ch",
+            "Url": "https://new.abb.com/products/REP3BHT300005R1/ai620-analog-input-16ch",
+            "Data": {
+                "general": {
+                    "Product ID:": "REP3BHT300005R1",
+                    "ABB Type Designation:": "AI620",
+                    "Catalog Description:": "AI620 Analog Input 16Ch"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Height:": "273 mm",
+                    "Product Net Width:": "40 mm",
+                    "Product Net Weight:": "1.28 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "INPUT 16CH",
+                    "Technical Information:": "REPAIR OF AI620",
+                    "Product Type:": "I-O_Module"
+                },
+                "classifications": {},
+                "environmental": {
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        },
+        {
+            "Name": "ABB AI620 Analog Input 16Ch",
+            "Url": "https://new.abb.com/products/REF3BHT300005R1/ai620-analog-input-16ch",
+            "Data": {
+                "general": {
+                    "Product ID:": "REF3BHT300005R1",
+                    "ABB Type Designation:": "AI620 Refurbished",
+                    "Catalog Description:": "AI620 Analog Input 16Ch"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "AI620 Refurbished",
+                    "Country of Origin:": "Sweden (SE)",
+                    "Customs Tariff Number:": "85389091",
+                    "Gross Weight:": "1.28 kg",
+                    "Invoice Description:": "AI620 Analog Input 16Ch",
+                    "Made To Order:": "No",
+                    "Medium Description:": "Analog Input 16Ch",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Package Level 1 Gross Weight:": "1.28 kg",
+                    "Package Level 1 Units:": "1 piece",
+                    "Part Type:": "Refurbished",
+                    "Product Name:": "I-O Module",
+                    "Product Net Weight:": "1.28 kg",
+                    "Product Type:": "I-O_Module",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "Stocked At (Warehouses):": "Malm\u00f6, Sweden",
+                    "Technical Information:": "AI620 Refurbished Analog Input 16Ch",
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "ABB AI620 Analog Input 16Ch",
+            "Url": "https://new.abb.com/products/TES3BHT300005R1/ai620-analog-input-16ch",
+            "Data": {
+                "general": {
+                    "Product ID:": "TES3BHT300005R1",
+                    "ABB Type Designation:": "AI620",
+                    "Catalog Description:": "AI620 Analog Input 16Ch"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "1.28 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "INPUT 16CH",
+                    "Technical Information:": "Test and Inspection.Notice! Repair not includedPossible repair to be ordered separately",
+                    "Product Type:": "I-O_Module"
+                },
+                "classifications": {},
+                "environmental": {
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        },
+        {
+            "Name": "ABB AI620 Analog Input 16Ch 12 bit",
+            "Url": "https://new.abb.com/products/3BHT300005R1/ai620-analog-input-16ch-12-bit",
+            "Data": {
+                "general": {
+                    "Product ID:": "3BHT300005R1",
+                    "ABB Type Designation:": "AI620",
+                    "Catalog Description:": "AI620 Analog Input 16Ch 12 bit",
+                    "Long Description:": "AI620 Analog Input 16Ch"
+                },
+                "ordering": {
+                    "HS Code:": "853890-- Parts suitable for use solely or principally with the apparatus of heading 85.35, 85.36 or 85.37.- Other",
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Depth / Length:": "252 mm",
+                    "Product Net Height:": "273 mm",
+                    "Product Net Width:": "40 mm",
+                    "Product Net Weight:": "1.28 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "AI620 Analog Input 16Ch",
+                    "Product Type:": "I-O_Module"
+                },
+                "classifications": {},
+                "environmental": {
+                    "RoHS Status:": "Following EU Directive 2011/65/EU",
+                    "WEEE Category:": "5. Small Equipment (No External Dimension More Than 50 cm)",
+                    "Number of Batteries:": "0"
+                }
+            }
+        },
+        {
+            "Name": "ABB AI620 ANALOG INPUT CARD PRE-OWNED",
+            "Url": "https://new.abb.com/products/ABB.PARTS.USINYP3BHT300005R1",
+            "Data": {
+                "general": {
+                    "Product ID:": "P3BHT300005R1",
+                    "ABB Type Designation:": "AI620 ANALOG INPUT CARD PRE-OWNED",
+                    "Catalog Description:": "AI620 ANALOG INPUT CARD PRE-OWNED",
+                    "Long Description:": "AI620 ANALOG INPUT CARD PRE-OWNED"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85352100"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Product Type:": "Undefined"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "ABB AI620 ANALOG INPUT CARD PRE-OWNED",
+            "Url": "https://new.abb.com/products/P3BHT300005R1/ai620-analog-input-card-pre-owned",
+            "Data": {
+                "general": {
+                    "Product ID:": "P3BHT300005R1",
+                    "ABB Type Designation:": "AI620 ANALOG INPUT CARD PRE-OWNED",
+                    "Catalog Description:": "AI620 ANALOG INPUT CARD PRE-OWNED",
+                    "Long Description:": "AI620 ANALOG INPUT CARD PRE-OWNED"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85352100"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Product Type:": "Undefined"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "Y3BHT300005R1",
+            "Url": "https://new.abb.com/products/Y3BHT300005R1/y3bht300005r1",
+            "Data": {
+                "general": {
+                    "Product ID:": "Y3BHT300005R1",
+                    "ABB Type Designation:": "AI620 ANALOG INPUT CARD",
+                    "Catalog Description:": "AI620 ANALOG INPUT CARD",
+                    "Long Description:": "AI620 ANALOG INPUT CARD"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85352100"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "AI620 ANALOG INPUT CARD"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "U3BHT300005R1",
+            "Url": "https://new.abb.com/products/U3BHT300005R1/u3bht300005r1",
+            "Data": {
+                "general": {
+                    "Product ID:": "U3BHT300005R1",
+                    "ABB Type Designation:": "AI620 ANALOG INPUT 16CH",
+                    "Catalog Description:": "AI620 ANALOG INPUT 16CH",
+                    "Long Description:": "AI620 ANALOG INPUT 16CH"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85352100"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "AI620 ANALOG INPUT 16CH",
+                    "Product Type:": "UADVN"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "3BHT300005R1",
+            "Url": "https://new.abb.com/products/3BHT300005R1/3bht300005r1",
+            "Data": {
+                "general": {
+                    "Product ID:": "3BHT300005R1",
+                    "ABB Type Designation:": "AI620",
+                    "Catalog Description:": "AI620 Analog Input 16Ch 12 bit",
+                    "Long Description:": "AI620 Analog Input 16Ch"
+                },
+                "ordering": {
+                    "HS Code:": "853890-- Parts suitable for use solely or principally with the apparatus of heading 85.35, 85.36 or 85.37.- Other",
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Depth / Length:": "252 mm",
+                    "Product Net Height:": "273 mm",
+                    "Product Net Width:": "40 mm",
+                    "Product Net Weight:": "1.28 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "AI620 Analog Input 16Ch",
+                    "Product Type:": "I-O_Module"
+                },
+                "classifications": {},
+                "environmental": {
+                    "RoHS Status:": "Following EU Directive 2011/65/EU",
+                    "WEEE Category:": "5. Small Equipment (No External Dimension More Than 50 cm)",
+                    "Number of Batteries:": "0"
+                }
+            }
+        },
+        {
+            "Name": "P3BHT300005R1",
+            "Url": "https://new.abb.com/products/P3BHT300005R1/p3bht300005r1",
+            "Data": {
+                "general": {
+                    "Product ID:": "P3BHT300005R1",
+                    "ABB Type Designation:": "AI620 ANALOG INPUT CARD PRE-OWNED",
+                    "Catalog Description:": "AI620 ANALOG INPUT CARD PRE-OWNED",
+                    "Long Description:": "AI620 ANALOG INPUT CARD PRE-OWNED"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85352100"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Product Type:": "Undefined"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "REF3BHT300005R1",
+            "Url": "https://new.abb.com/products/REF3BHT300005R1/ref3bht300005r1",
+            "Data": {
+                "general": {
+                    "Product ID:": "REF3BHT300005R1",
+                    "ABB Type Designation:": "AI620 Refurbished",
+                    "Catalog Description:": "AI620 Analog Input 16Ch"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "AI620 Refurbished",
+                    "Country of Origin:": "Sweden (SE)",
+                    "Customs Tariff Number:": "85389091",
+                    "Gross Weight:": "1.28 kg",
+                    "Invoice Description:": "AI620 Analog Input 16Ch",
+                    "Made To Order:": "No",
+                    "Medium Description:": "Analog Input 16Ch",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Package Level 1 Gross Weight:": "1.28 kg",
+                    "Package Level 1 Units:": "1 piece",
+                    "Part Type:": "Refurbished",
+                    "Product Name:": "I-O Module",
+                    "Product Net Weight:": "1.28 kg",
+                    "Product Type:": "I-O_Module",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "Stocked At (Warehouses):": "Malm\u00f6, Sweden",
+                    "Technical Information:": "AI620 Refurbished Analog Input 16Ch",
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "EXC3BHT300005R1",
+            "Url": "https://new.abb.com/products/EXC3BHT300005R1/exc3bht300005r1",
+            "Data": {
+                "general": {
+                    "Product ID:": "EXC3BHT300005R1",
+                    "ABB Type Designation:": "AI620 Exchange",
+                    "Catalog Description:": "AI620 Analog Input Unit 16Ch"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "1.28 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "Analog Input 16Ch, Exchange",
+                    "Technical Information:": "AI620 Analog Input 16Ch ExchangeNote! The replaced part with RMA to be returnedaccording to T&C otherwise an extra charge will be required.",
+                    "Product Type:": "I-O_Module"
+                },
+                "classifications": {},
+                "environmental": {
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        },
+        {
+            "Name": "REP3BHT300005R1",
+            "Url": "https://new.abb.com/products/REP3BHT300005R1/rep3bht300005r1",
+            "Data": {
+                "general": {
+                    "Product ID:": "REP3BHT300005R1",
+                    "ABB Type Designation:": "AI620",
+                    "Catalog Description:": "AI620 Analog Input 16Ch"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Height:": "273 mm",
+                    "Product Net Width:": "40 mm",
+                    "Product Net Weight:": "1.28 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "INPUT 16CH",
+                    "Technical Information:": "REPAIR OF AI620",
+                    "Product Type:": "I-O_Module"
+                },
+                "classifications": {},
+                "environmental": {
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        },
+        {
+            "Name": "TES3BHT300005R1",
+            "Url": "https://new.abb.com/products/TES3BHT300005R1/tes3bht300005r1",
+            "Data": {
+                "general": {
+                    "Product ID:": "TES3BHT300005R1",
+                    "ABB Type Designation:": "AI620",
+                    "Catalog Description:": "AI620 Analog Input 16Ch"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "1.28 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "INPUT 16CH",
+                    "Technical Information:": "Test and Inspection.Notice! Repair not includedPossible repair to be ordered separately",
+                    "Product Type:": "I-O_Module"
+                },
+                "classifications": {},
+                "environmental": {
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        },
+        {
+            "Name": "ABB QTP-Order P3BHT300005R1",
+            "Url": "https://new.abb.com/products/R3BHT300005R1/qtp-order-p3bht300005r1",
+            "Data": {
+                "general": {
+                    "Product ID:": "R3BHT300005R1",
+                    "ABB Type Designation:": "QTP-Order P3BHT300005R1",
+                    "Catalog Description:": "QTP-Order P3BHT300005R1",
+                    "Long Description:": "QTP-Order P3BHT300005R1"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85352100"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Product Type:": "Undefined"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "R3BHT300005R1",
+            "Url": "https://new.abb.com/products/R3BHT300005R1/r3bht300005r1",
+            "Data": {
+                "general": {
+                    "Product ID:": "R3BHT300005R1",
+                    "ABB Type Designation:": "QTP-Order P3BHT300005R1",
+                    "Catalog Description:": "QTP-Order P3BHT300005R1",
+                    "Long Description:": "QTP-Order P3BHT300005R1"
+                },
+                "ordering": {
+                    "Customs Tariff Number:": "85352100"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Product Type:": "Undefined"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        }
+    ]
+}

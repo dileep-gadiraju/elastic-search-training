@@ -1,0 +1,167 @@
+{
+    "Items": [
+        {
+            "Name": "RA065060",
+            "Url": "https://new.abb.com/products/7BRA065060/ra065060",
+            "Data": {
+                "general": {
+                    "Global Commercial Alias:": "RA065060",
+                    "Product ID:": "7BRA065060",
+                    "ABB Type Designation:": "RA 37G899T309",
+                    "Catalog Description:": "RA 37G899T309"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "RA 37G899T309",
+                    "Country of Origin:": "United States (US)",
+                    "Customs Tariff Number:": "85030099",
+                    "Global Commercial Alias:": "RA065060",
+                    "Gross Weight:": "18.614 kg",
+                    "Invoice Description:": "RA 37G899T309",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Product Name:": "General Purpose",
+                    "Product Net Height:": "0 cm",
+                    "Product Net Length:": "0 cm",
+                    "Product Net Weight:": "18.614 kg",
+                    "Product Net Width:": "0 cm",
+                    "Product Type:": "Undefined",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "Stocked At (Warehouses):": "ChinaAlabama, United StatesAlaska, United States",
+                    "UNSPSC:": "26101400"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "RA065081",
+            "Url": "https://new.abb.com/products/7BRA065081/ra065081",
+            "Data": {
+                "general": {
+                    "Global Commercial Alias:": "RA065081",
+                    "Product ID:": "7BRA065081",
+                    "ABB Type Designation:": "RA 36J377T115",
+                    "Catalog Description:": "RA 36J377T115"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "RA 36J377T115",
+                    "Country of Origin:": "United States (US)",
+                    "Customs Tariff Number:": "85030099",
+                    "Global Commercial Alias:": "RA065081",
+                    "Gross Weight:": "5.902 kg",
+                    "Invoice Description:": "RA 36J377T115",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Product Name:": "General Purpose",
+                    "Product Net Height:": "0 cm",
+                    "Product Net Length:": "0 cm",
+                    "Product Net Weight:": "5.902 kg",
+                    "Product Net Width:": "0 cm",
+                    "Product Type:": "Undefined",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "Stocked At (Warehouses):": "ChinaAlabama, United StatesAlaska, United States",
+                    "UNSPSC:": "26101400"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "RA065085",
+            "Url": "https://new.abb.com/products/7BRA065085/ra065085",
+            "Data": {
+                "general": {
+                    "Global Commercial Alias:": "RA065085",
+                    "Product ID:": "7BRA065085",
+                    "ABB Type Designation:": "RA 07J376X118G1",
+                    "Catalog Description:": "RA 07J376X118G1"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "RA 07J376X118G1",
+                    "Country of Origin:": "United States (US)",
+                    "Customs Tariff Number:": "85030099",
+                    "Global Commercial Alias:": "RA065085",
+                    "Gross Weight:": "34.731 kg",
+                    "Invoice Description:": "RA 07J376X118G1",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Product Name:": "General Purpose",
+                    "Product Net Height:": "0 cm",
+                    "Product Net Length:": "0 cm",
+                    "Product Net Weight:": "34.731 kg",
+                    "Product Net Width:": "0 cm",
+                    "Product Type:": "Undefined",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "Stocked At (Warehouses):": "ChinaAlabama, United StatesAlaska, United States",
+                    "UNSPSC:": "26101400"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "5SNA0650J450300",
+            "Url": "https://new.abb.com/products/5SNA0650J450300/5sna0650j450300",
+            "Data": {
+                "general": {
+                    "Product ID:": "5SNA0650J450300",
+                    "ABB Type Designation:": "4500V  650A",
+                    "Catalog Description:": "HiPak IGBT Module"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "4500V  650A",
+                    "Country of Origin:": "Switzerland (CH)",
+                    "Customs Tariff Number:": "85412900",
+                    "Gross Volume:": "0.874 dm\u00b3",
+                    "Gross Weight:": "1.01 kg",
+                    "Invoice Description:": "HiPak IGBT Module",
+                    "Made To Order:": "No",
+                    "Medium Description:": "HiPak Module",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Package Level 1 Depth / Length:": "130 mm",
+                    "Package Level 1 Gross Weight:": "1.01 kg",
+                    "Package Level 1 Height:": "48 mm",
+                    "Package Level 1 Units:": "1 piece",
+                    "Package Level 1 Width:": "140 mm",
+                    "Part Type:": "New",
+                    "Product Name:": "Control System Accessory",
+                    "Product Net Height:": "48 mm",
+                    "Product Net Length:": "130 mm",
+                    "Product Net Weight:": "1.01 kg",
+                    "Product Net Width:": "140 mm",
+                    "Product Type:": "Control_System_Accessory",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "Stocked At (Warehouses):": "Malm\u00f6, SwedenSingapore,  Singapore",
+                    "Technical Information:": "Single-switch IGBT moduleJ = HiPak1 HV 40 mm , Blocking voltage 4,5kVUltra low-loss, rugged SPT+ chip-setSmooth switching SPT+ chip-set for good EMCIndustry standard packageHigh power densityAlSiC base-plate for high power cycling capabilityAlN substrate for low thermal resistanceImproved high reliability packageRecognized under UL1557, File E196689",
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        }
+    ]
+}

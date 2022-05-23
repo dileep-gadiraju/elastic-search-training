@@ -1,0 +1,72 @@
+{
+    "Items": [
+        {
+            "Name": "ABB DSDP 150K07 Pulse Encoder Input Set 10kH",
+            "Url": "https://new.abb.com/products/ABB.PARTS.SELOG3BSE019950R1",
+            "Data": {
+                "general": {
+                    "Product ID:": "3BSE019950R1",
+                    "ABB Type Designation:": "DSDP 150K07",
+                    "Catalog Description:": "DSDP 150K07 Pulse Encoder Input Set 10kH",
+                    "Long Description:": "DSDP 150K07 Pulse Encoder Input, 12ch 10kHz.Cable length 10 m.Set incl.1 pc 57160001-GF DSDP 1501 pc 3BSC950170R100 Cable DSTK 225SL101 pc 21212411-220 M3 x 6 mmNote! This part is exempted from the scope of 2011/65/EU (RoHS)as provided in Article 2(4)(c), (e), (f) and (j) therein(ref.: 3BSE088609 \u2013 EU DECLARATION OF CONFORMITY- ABB Advant Master Process Control System)"
+                },
+                "ordering": {
+                    "HS Code:": "853890-- Parts suitable for use solely or principally with the apparatus of heading 85.35, 85.36 or 85.37.- Other",
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Depth / Length:": "0 mm",
+                    "Product Net Height:": "0 mm",
+                    "Product Net Width:": "0 mm",
+                    "Product Net Weight:": "0.91 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "Pulse Encoder Input Set",
+                    "Technical Information:": "DSDP 150K07 Pulse Encoder Input, 12ch 10kHz.Cable length 10 m.Set incl.1 pc     57160001-GF DSDP 1501 pc     3BSC950170R100 Cable DSTK 225SL101 pc     21212411-220 M3 x 6 mm",
+                    "Product Type:": "Unclassified"
+                },
+                "classifications": {},
+                "environmental": {
+                    "WEEE Category:": "5. Small Equipment (No External Dimension More Than 50 cm)",
+                    "Number of Batteries:": "0"
+                }
+            }
+        },
+        {
+            "Name": "ABB DSDP 150K07 Pulse Encoder Input Set 10kH",
+            "Url": "https://new.abb.com/products/3BSE019950R1/dsdp-150k07-pulse-encoder-input-set-10kh",
+            "Data": {
+                "general": {
+                    "Product ID:": "3BSE019950R1",
+                    "ABB Type Designation:": "DSDP 150K07",
+                    "Catalog Description:": "DSDP 150K07 Pulse Encoder Input Set 10kH",
+                    "Long Description:": "DSDP 150K07 Pulse Encoder Input, 12ch 10kHz.Cable length 10 m.Set incl.1 pc 57160001-GF DSDP 1501 pc 3BSC950170R100 Cable DSTK 225SL101 pc 21212411-220 M3 x 6 mmNote! This part is exempted from the scope of 2011/65/EU (RoHS)as provided in Article 2(4)(c), (e), (f) and (j) therein(ref.: 3BSE088609 \u2013 EU DECLARATION OF CONFORMITY- ABB Advant Master Process Control System)"
+                },
+                "ordering": {
+                    "HS Code:": "853890-- Parts suitable for use solely or principally with the apparatus of heading 85.35, 85.36 or 85.37.- Other",
+                    "Customs Tariff Number:": "85389091"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Depth / Length:": "0 mm",
+                    "Product Net Height:": "0 mm",
+                    "Product Net Width:": "0 mm",
+                    "Product Net Weight:": "0.91 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Medium Description:": "Pulse Encoder Input Set",
+                    "Technical Information:": "DSDP 150K07 Pulse Encoder Input, 12ch 10kHz.Cable length 10 m.Set incl.1 pc     57160001-GF DSDP 1501 pc     3BSC950170R100 Cable DSTK 225SL101 pc     21212411-220 M3 x 6 mm",
+                    "Product Type:": "Unclassified"
+                },
+                "classifications": {},
+                "environmental": {
+                    "WEEE Category:": "5. Small Equipment (No External Dimension More Than 50 cm)",
+                    "Number of Batteries:": "0"
+                }
+            }
+        }
+    ]
+}

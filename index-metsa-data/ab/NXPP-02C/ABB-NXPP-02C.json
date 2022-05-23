@@ -1,0 +1,118 @@
+{
+    "Items": [
+        {
+            "Name": "ABB NXPP-02C MD KIT",
+            "Url": "https://new.abb.com/products/ABB.PARTS.USINY3AFE64120662",
+            "Data": {
+                "general": {
+                    "Product ID:": "3AFE64120662",
+                    "ABB Type Designation:": "-",
+                    "Catalog Description:": "NXPP-02C MD KIT"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "-",
+                    "Core Credit:": "0.00",
+                    "Country of Origin:": "Finland (FI)",
+                    "Customs Tariff Number:": "85030099",
+                    "Gross Volume:": "0 in\u00b3",
+                    "Gross Weight:": "0 kg",
+                    "Invoice Description:": "NXPP-02C MD KIT",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 EA",
+                    "Order Multiple:": "1 EA",
+                    "Package Level 1 Gross Weight:": "0 lb",
+                    "Package Level 1 Units:": "1 EA",
+                    "Part Type:": "New",
+                    "Product Name:": "-",
+                    "Product Net Weight:": "0 kg",
+                    "Product Type:": "Undefined",
+                    "Quote Only:": "No",
+                    "Replacement Product ID (NEW):": "64120662",
+                    "Selling Unit of Measure:": "each"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "ABB NXPP-02C MD KIT",
+            "Url": "https://new.abb.com/products/3AFE64120662/nxpp-02c-md-kit",
+            "Data": {
+                "general": {
+                    "Product ID:": "3AFE64120662",
+                    "ABB Type Designation:": "-",
+                    "Catalog Description:": "NXPP-02C MD KIT"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "-",
+                    "Core Credit:": "0.00",
+                    "Country of Origin:": "Finland (FI)",
+                    "Customs Tariff Number:": "85030099",
+                    "Gross Volume:": "0 in\u00b3",
+                    "Gross Weight:": "0 kg",
+                    "Invoice Description:": "NXPP-02C MD KIT",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 EA",
+                    "Order Multiple:": "1 EA",
+                    "Package Level 1 Gross Weight:": "0 lb",
+                    "Package Level 1 Units:": "1 EA",
+                    "Part Type:": "New",
+                    "Product Name:": "-",
+                    "Product Net Weight:": "0 kg",
+                    "Product Type:": "Undefined",
+                    "Quote Only:": "No",
+                    "Replacement Product ID (NEW):": "64120662",
+                    "Selling Unit of Measure:": "each"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        },
+        {
+            "Name": "3AFE64120662",
+            "Url": "https://new.abb.com/products/3AFE64120662/3afe64120662",
+            "Data": {
+                "general": {
+                    "Product ID:": "3AFE64120662",
+                    "ABB Type Designation:": "-",
+                    "Catalog Description:": "NXPP-02C MD KIT"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "-",
+                    "Core Credit:": "0.00",
+                    "Country of Origin:": "Finland (FI)",
+                    "Customs Tariff Number:": "85030099",
+                    "Gross Volume:": "0 in\u00b3",
+                    "Gross Weight:": "0 kg",
+                    "Invoice Description:": "NXPP-02C MD KIT",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 EA",
+                    "Order Multiple:": "1 EA",
+                    "Package Level 1 Gross Weight:": "0 lb",
+                    "Package Level 1 Units:": "1 EA",
+                    "Part Type:": "New",
+                    "Product Name:": "-",
+                    "Product Net Weight:": "0 kg",
+                    "Product Type:": "Undefined",
+                    "Quote Only:": "No",
+                    "Replacement Product ID (NEW):": "64120662",
+                    "Selling Unit of Measure:": "each"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        }
+    ]
+}

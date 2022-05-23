@@ -1,0 +1,46 @@
+{
+    "Items": [
+        {
+            "Name": "ABB GND PLATE ASSY ACS801 R3",
+            "Url": "https://new.abb.com/products/ABB.PARTS.USINY64527886",
+            "Data": {
+                "general": {
+                    "Product ID:": "64527886",
+                    "ABB Type Designation:": "-",
+                    "Catalog Description:": "GND PLATE ASSY    ACS801 R3"
+                },
+                "ordering": {},
+                "container-information": {},
+                "dimensions": {},
+                "technical": {},
+                "additional-information": {
+                    "ABB Type Designation:": "-",
+                    "CN8:": "8504909650",
+                    "Core Credit:": "0.00",
+                    "Country of Origin:": "Finland (FI)",
+                    "Customs Tariff Number:": "8504909650",
+                    "Gross Volume:": "0 in\u00b3",
+                    "Gross Weight:": "0 kg",
+                    "Invoice Description:": "GND PLATE ASSY    ACS801 R3",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 EA",
+                    "Order Multiple:": "1 EA",
+                    "Package Level 1 Gross Weight:": "0 lb",
+                    "Package Level 1 Units:": "1 EA",
+                    "Part Type:": "New",
+                    "Product Name:": "-",
+                    "Product Net Weight:": "0 kg",
+                    "Product Type:": "Undefined",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "each",
+                    "Short Description:": "-",
+                    "Stocked At (Warehouses):": "New Berlin,Wisconsin, United States",
+                    "WEEE B2C / B2B:": "Business To Business",
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                },
+                "classifications": {},
+                "environmental": {}
+            }
+        }
+    ]
+}

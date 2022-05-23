@@ -1,0 +1,325 @@
+{
+    "Items": [
+        {
+            "Name": "ACS800-01-0004-3",
+            "Url": "https://new.abb.com/products/64603345/acs800-01-0004-3",
+            "Data": {
+                "general": {
+                    "Global Commercial Alias:": "ACS800-01-0004-3",
+                    "Product ID:": "64603345",
+                    "ABB Type Designation:": "ACS800-01-0004-3",
+                    "EAN:": "6410038780043",
+                    "Catalog Description:": "ACS800-01-0004-3 Pcont.max:2,2kW, Icont.max:6,5A"
+                },
+                "ordering": {
+                    "Country of Origin:": "Finland (FI)",
+                    "Customs Tariff Number:": "85044084",
+                    "Invoice Description:": "ACS800-01-0004-3 Pcont.max:2,2kW, Icont.max:6,5A",
+                    "Made To Order:": "Yes",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "UPC:": "6410038780043"
+                },
+                "container-information": {
+                    "Gross Volume:": "31.67 dm\u00b3"
+                },
+                "dimensions": {
+                    "Product Net Weight:": "9 kg",
+                    "Product Net Height:": "405 mm",
+                    "Product Net Length:": "226 mm",
+                    "Product Net Width:": "165 mm",
+                    "Package Level 1 Units:": "1 carton"
+                },
+                "technical": {
+                    "Number of Phases:": "3",
+                    "Frequency (f):": "48 ... 63 Hz",
+                    "Input Voltage (Uin):": "380 ... 415 V",
+                    "Mounting Type:": "Wall-mounting",
+                    "Output Current, Heavy-Duty Use:": "4.3 A",
+                    "Output Current, Light-Overload Use:": "5.9 A",
+                    "Output Current, Normal Use:": "6.5 A",
+                    "Output Power, Heavy-Duty Use:": "1.5 kW",
+                    "Output Power, Light-Overload Use:": "2.2 kW",
+                    "Output Power, Normal Use:": "2.2 kW"
+                },
+                "additional-information": {
+                    "Product Main Type:": "ACS800-01-0004-3",
+                    "Product Name:": "Frequency Converter"
+                },
+                "classifications": {
+                    "Product Series:": "ACS800-01",
+                    "UNSPSC:": "2610175139122001"
+                },
+                "environmental": {
+                    "SCIP:": "9137de42-9806-4708-a144-33d9e4e244e2 Finland (FI)",
+                    "WEEE Category:": "5. Small Equipment (No External Dimension More Than 50 cm)"
+                }
+            }
+        },
+        {
+            "Name": "ABB ACS800-01-0004-3 Pcont.max:2,2kW, Icont.max:6,5A",
+            "Url": "https://new.abb.com/products/TEMP.FIDRI64603345",
+            "Data": {
+                "general": {
+                    "Global Commercial Alias:": "ACS800-01-0004-3",
+                    "Product ID:": "64603345",
+                    "ABB Type Designation:": "ACS800-01-0004-3",
+                    "EAN:": "6410038780043",
+                    "Catalog Description:": "ACS800-01-0004-3 Pcont.max:2,2kW, Icont.max:6,5A"
+                },
+                "ordering": {
+                    "Country of Origin:": "Finland (FI)",
+                    "Customs Tariff Number:": "85044084",
+                    "Invoice Description:": "ACS800-01-0004-3 Pcont.max:2,2kW, Icont.max:6,5A",
+                    "Made To Order:": "Yes",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "UPC:": "6410038780043"
+                },
+                "container-information": {
+                    "Gross Volume:": "31.67 dm\u00b3"
+                },
+                "dimensions": {
+                    "Product Net Weight:": "9 kg",
+                    "Product Net Height:": "405 mm",
+                    "Product Net Length:": "226 mm",
+                    "Product Net Width:": "165 mm",
+                    "Package Level 1 Units:": "1 carton"
+                },
+                "technical": {
+                    "Number of Phases:": "3",
+                    "Frequency (f):": "48 ... 63 Hz",
+                    "Input Voltage (Uin):": "380 ... 415 V",
+                    "Mounting Type:": "Wall-mounting",
+                    "Output Current, Heavy-Duty Use:": "4.3 A",
+                    "Output Current, Light-Overload Use:": "5.9 A",
+                    "Output Current, Normal Use:": "6.5 A",
+                    "Output Power, Heavy-Duty Use:": "1.5 kW",
+                    "Output Power, Light-Overload Use:": "2.2 kW",
+                    "Output Power, Normal Use:": "2.2 kW"
+                },
+                "additional-information": {
+                    "Product Main Type:": "ACS800-01-0004-3",
+                    "Product Name:": "Frequency Converter"
+                },
+                "classifications": {
+                    "Product Series:": "ACS800-01",
+                    "UNSPSC:": "2610175139122001"
+                },
+                "environmental": {
+                    "SCIP:": "9137de42-9806-4708-a144-33d9e4e244e2 Finland (FI)",
+                    "WEEE Category:": "5. Small Equipment (No External Dimension More Than 50 cm)"
+                }
+            }
+        },
+        {
+            "Name": "ABB ACS800-01-0004-3 Pcont.max:2,2kW, Icont.max:6,5A",
+            "Url": "https://new.abb.com/products/64603345/acs800-01-0004-3-pcont-max2-2kw-icont-max6-5a",
+            "Data": {
+                "general": {
+                    "Global Commercial Alias:": "ACS800-01-0004-3",
+                    "Product ID:": "64603345",
+                    "ABB Type Designation:": "ACS800-01-0004-3",
+                    "EAN:": "6410038780043",
+                    "Catalog Description:": "ACS800-01-0004-3 Pcont.max:2,2kW, Icont.max:6,5A"
+                },
+                "ordering": {
+                    "Country of Origin:": "Finland (FI)",
+                    "Customs Tariff Number:": "85044084",
+                    "Invoice Description:": "ACS800-01-0004-3 Pcont.max:2,2kW, Icont.max:6,5A",
+                    "Made To Order:": "Yes",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece",
+                    "UPC:": "6410038780043"
+                },
+                "container-information": {
+                    "Gross Volume:": "31.67 dm\u00b3"
+                },
+                "dimensions": {
+                    "Product Net Weight:": "9 kg",
+                    "Product Net Height:": "405 mm",
+                    "Product Net Length:": "226 mm",
+                    "Product Net Width:": "165 mm",
+                    "Package Level 1 Units:": "1 carton"
+                },
+                "technical": {
+                    "Number of Phases:": "3",
+                    "Frequency (f):": "48 ... 63 Hz",
+                    "Input Voltage (Uin):": "380 ... 415 V",
+                    "Mounting Type:": "Wall-mounting",
+                    "Output Current, Heavy-Duty Use:": "4.3 A",
+                    "Output Current, Light-Overload Use:": "5.9 A",
+                    "Output Current, Normal Use:": "6.5 A",
+                    "Output Power, Heavy-Duty Use:": "1.5 kW",
+                    "Output Power, Light-Overload Use:": "2.2 kW",
+                    "Output Power, Normal Use:": "2.2 kW"
+                },
+                "additional-information": {
+                    "Product Main Type:": "ACS800-01-0004-3",
+                    "Product Name:": "Frequency Converter"
+                },
+                "classifications": {
+                    "Product Series:": "ACS800-01",
+                    "UNSPSC:": "2610175139122001"
+                },
+                "environmental": {
+                    "SCIP:": "9137de42-9806-4708-a144-33d9e4e244e2 Finland (FI)",
+                    "WEEE Category:": "5. Small Equipment (No External Dimension More Than 50 cm)"
+                }
+            }
+        },
+        {
+            "Name": "ABB ACS800 Wire kit for R2i; WIRE HARNESS",
+            "Url": "https://new.abb.com/products/TEMP.FIDRI68330033",
+            "Data": {
+                "general": {
+                    "Product ID:": "68330033",
+                    "ABB Type Designation:": "ACS800 Wire kit for R2i",
+                    "Catalog Description:": "ACS800 Wire kit for R2i; WIRE HARNESS"
+                },
+                "ordering": {
+                    "Core Credit:": "0.00",
+                    "Country of Origin:": "Finland (FI)Estonia (EE)",
+                    "Customs Tariff Number:": "85444290",
+                    "Invoice Description:": "WIRE HARNESS",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0.11 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Product Name:": "WIRE HARNESS"
+                },
+                "classifications": {
+                    "UNSPSC:": "3912000039122004"
+                },
+                "environmental": {
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        },
+        {
+            "Name": "ABB AGPS-11C external kit for R2i-R5i; R2/R6 AGPS-11 PAC",
+            "Url": "https://new.abb.com/products/TEMP.FIDRI68364434",
+            "Data": {
+                "general": {
+                    "Product ID:": "68364434",
+                    "ABB Type Designation:": "AGPS-11C external kit for R2i-R5i",
+                    "Catalog Description:": "AGPS-11C external kit for R2i-R5i; R2/R6 AGPS-11 PAC"
+                },
+                "ordering": {
+                    "Core Credit:": "0.00",
+                    "Country of Origin:": "Finland (FI)Czech Republic (CZ)Germany (DE)",
+                    "Customs Tariff Number:": "85444290",
+                    "Invoice Description:": "R2/R6 AGPS-11 PAC",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0.11 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Product Name:": "R2/R6 AGPS-11 PAC"
+                },
+                "classifications": {
+                    "UNSPSC:": "3912000039122004"
+                },
+                "environmental": {
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        },
+        {
+            "Name": "ABB NPCN-01; DDCS/PCMCIA Interface NPCN-01",
+            "Url": "https://new.abb.com/products/TEMP.FIDRI61253424",
+            "Data": {
+                "general": {
+                    "Product ID:": "61253424",
+                    "ABB Type Designation:": "NPCN-01",
+                    "Catalog Description:": "NPCN-01; DDCS/PCMCIA Interface NPCN-01",
+                    "Long Description:": "NPCM-01,DDCS/PCMCIA CONN."
+                },
+                "ordering": {
+                    "Core Credit:": "0.00",
+                    "Country of Origin:": "Finland (FI)",
+                    "Customs Tariff Number:": "85049099",
+                    "Invoice Description:": "DDCS/PCMCIA Interface NPCN-01",
+                    "Made To Order:": "Yes",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0.3 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Product Name:": "Installation accessories",
+                    "Short Description:": "-"
+                },
+                "classifications": {
+                    "UNSPSC:": "3912000039122004"
+                },
+                "environmental": {
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        },
+        {
+            "Name": "ABB RPMP-13; Door/Control panel kit (inst.accessories, panel, connection wire 3 m.) RPMP-13",
+            "Url": "https://new.abb.com/products/TEMP.FIDRI64736141",
+            "Data": {
+                "general": {
+                    "Product ID:": "64736141",
+                    "ABB Type Designation:": "RPMP-13",
+                    "Catalog Description:": "RPMP-13; Door/Control panel kit (inst.accessories, panel, connection wire 3 m.) RPMP-13",
+                    "Long Description:": "RPMP-13 KIT,CONTROL PANEL"
+                },
+                "ordering": {
+                    "Core Credit:": "0.00",
+                    "Country of Origin:": "Finland (FI)Estonia (EE)",
+                    "Customs Tariff Number:": "85049099",
+                    "Invoice Description:": "Door/Control panel kit (inst.accessories, panel, connection wire 3 m.) RPMP-13",
+                    "Made To Order:": "Yes",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0.7 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Product Name:": "Installation accessories",
+                    "Short Description:": "-"
+                },
+                "classifications": {
+                    "UNSPSC:": "3912000039122004"
+                },
+                "environmental": {
+                    "SCIP:": "65cc28e3-8ea8-41bf-981e-a61935be5f6c Finland (FI)",
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        }
+    ]
+}

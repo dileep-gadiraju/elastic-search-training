@@ -1,0 +1,42 @@
+{
+    "Items": [
+        {
+            "Name": "ABB ACS801 R5; WIRE HARNESS",
+            "Url": "https://new.abb.com/products/64571672/acs801-r5-wire-harness",
+            "Data": {
+                "general": {
+                    "Product ID:": "64571672",
+                    "ABB Type Designation:": "ACS801 R5",
+                    "Catalog Description:": "ACS801 R5; WIRE HARNESS",
+                    "Long Description:": "R5 MAIN FAN CABLE"
+                },
+                "ordering": {
+                    "Core Credit:": "0.00",
+                    "Country of Origin:": "Finland (FI)China (CN)",
+                    "Customs Tariff Number:": "85444290",
+                    "Invoice Description:": "WIRE HARNESS",
+                    "Made To Order:": "No",
+                    "Minimum Order Quantity:": "1 piece",
+                    "Order Multiple:": "1 piece",
+                    "Quote Only:": "No",
+                    "Selling Unit of Measure:": "piece"
+                },
+                "container-information": {},
+                "dimensions": {
+                    "Product Net Weight:": "0.01 kg"
+                },
+                "technical": {},
+                "additional-information": {
+                    "Product Name:": "WIRE HARNESS",
+                    "Short Description:": "-"
+                },
+                "classifications": {
+                    "UNSPSC:": "3912000039122004"
+                },
+                "environmental": {
+                    "WEEE Category:": "Product Not in WEEE Scope"
+                }
+            }
+        }
+    ]
+}
